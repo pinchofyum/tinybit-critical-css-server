@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.7",
-    "prettier": "^3.3.3",
+    "prettier": "^3.4.2",
     "stylelint": "^16.10.0",
     "stylelint-prettier": "^5.0.2"
   }
