@@ -26,6 +26,6 @@
     "nodemon": "^3.1.7",
     "prettier": "^3.3.3",
     "stylelint": "^16.10.0",
-    "stylelint-prettier": "^5.0.2"
+    "stylelint-prettier": "^5.0.3"
   }
 }
